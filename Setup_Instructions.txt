@@ -1,0 +1,7 @@
+In order to setup OpenGL in your machines, visit the following links :
+
+For linux - http://www.videotutorialsrock.com/opengl_tutorial/get_opengl_setup_linux/home.php
+For Windows - http://www.videotutorialsrock.com/opengl_tutorial/get_opengl_setup_windows/home.php
+For Mac OS X - http://www.videotutorialsrock.com/opengl_tutorial/get_opengl_setup_mac_osx/home.php
+
+Once set up, you can check your dev packages installed in /usr/include/GL.

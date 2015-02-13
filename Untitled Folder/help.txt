@@ -1,0 +1,9 @@
+carrom game
+how to play:
+1. Use a,s,d,w to choose direction
+2. Use arrow keys to power up and down and set striker launching position
+3. use left mouse key to move striker to left
+4. use right mouse key to move striker to right
+5. scroll up and down to increase or decerase power
+6. press space to launch
+
